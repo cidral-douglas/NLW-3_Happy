@@ -47,4 +47,28 @@ Mais informações após a Next Level Week acabar
 
 ## Mobile
 
-![Screenshot](Screenshots/Progress.png)
+---
+
+### Tela Inicial
+
+![Screenshot](Screenshots/MobileInicio.png)
+
+---
+
+### Tela de Detalhes
+
+![Screenshot](Screenshots/MobileDetails.png)
+![Screenshot](Screenshots/MobileDetails2.png)
+
+---
+
+### Selecione no Mapa
+
+![Screenshot](Screenshots/MobileSelectMap.png)
+
+---
+
+### Criar Orfanato
+
+![Screenshot](Screenshots/MobileCreate.png)
+![Screenshot](Screenshots/MobileCreate2.png)
